@@ -2827,7 +2827,7 @@ div.pricing-start-free-trial{
 
 @media (max-width: 1580px) {
     .attention-row-headings{
-        background: rgba(255, 255, 255, 0.79);
+        /*background: rgba(255, 255, 255, 0.79);*/
         border-radius: 6px;
         padding-right: 20px;
     }
